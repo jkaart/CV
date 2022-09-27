@@ -39,8 +39,8 @@ Elektroniikka-asentaja
 
 ## Tietotekniset taidot
 Autocad Fusion 360  
-Office 2007  
-Windows 3.11 – 10  
+Office  
+Windows  
 Linux
 
 ## Kielitaito
